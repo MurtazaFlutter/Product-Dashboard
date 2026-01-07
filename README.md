@@ -3,6 +3,7 @@
 A modern, responsive Product Management Dashboard built with Flutter Web and BLoC/Cubit.This project was developed as part of a technical assessment to demonstrate clean architecture, scalable state management, and thoughtful UI/UX design for web applications.
 
 🌐 Live Demo:https://product-dashboard-5b965.web.app
+
 📂 GitHub Repository:https://github.com/MurtazaFlutter/Product-Dashboard
 
 🎯 Project Overview
